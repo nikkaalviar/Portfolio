@@ -21,11 +21,11 @@ const about = [
   "React",
   "Redux",
   "State Management",
-  "Vue",
+  "Angular",
   "AWS",
   "CSS frameworks",
-  "Web Widgets",
-  "Wordpress",
+  "SQL",
+  "Java",
 ];
 
 function randomSkill() {
@@ -100,7 +100,7 @@ export default function Landing() {
       <div className="landing__text-container">
         <AnimatedHeader headerText={"Hey,"} className={"landing__header"} />
         <AnimatedHeader
-          headerText={"I'm David"}
+          headerText={"I'm Nikka"}
           className={"landing__header"}
         />
         <AnimatedHeader
@@ -111,13 +111,13 @@ export default function Landing() {
           Frontend Developer / Frontend Software Engineer
         </p>
         <div className="landing__iconscontainer">
-          <a target="_blank" rel="no-refferer" href="/">
+          <a target="_blank" rel="no-refferer" href="https://github.com/fnalviar">
             <img src={gitHubIcon} alt="gitHubIcon" />
           </a>
-          <a target="_blank" rel="no-refferer" href="/">
+          <a target="_blank" rel="no-refferer" href="https://www.linkedin.com/in/nikka-alviar">
             <img src={linkedinIcon} alt="linkedinIcon" />
           </a>
-          <a target="_blank" rel="no-refferer" href="/">
+          <a target="_blank" rel="no-refferer" href="/resume.pdf">
             <img src={resumeIcon} alt="resumeIcon" />
           </a>
         </div>

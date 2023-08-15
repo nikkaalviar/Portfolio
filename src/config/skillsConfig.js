@@ -4,7 +4,7 @@ import {
   SiFirebase,
   SiHtml5,
   SiJavascript,
-  SiSass,
+  SiAngular,
   SiTypescript,
   SiRedux,
 } from "react-icons/si";
@@ -46,8 +46,8 @@ export const skillsConfig = [
     color: "rgb(246,130,13)",
   },
   {
-    icon: <SiSass />,
-    text: "Sass",
-    color: "rgb(204, 102, 153)",
+    icon: <SiAngular />,
+    text: "Angular",
+    color: "rgb(255, 0, 50)",
   },
 ];

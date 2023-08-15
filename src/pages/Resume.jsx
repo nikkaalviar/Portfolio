@@ -1,5 +1,5 @@
 import React from "react";
-import Me from "../assets/me.jpeg";
+import Me from "../assets/me.JPG";
 import { FaDownload } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { AiFillLinkedin } from "react-icons/ai";
@@ -24,18 +24,21 @@ const Resume = () => {
             <img src={Me} alt="" />
           </div>
           <div>
-            <div className="resume__name playfair">David Bragg</div>
+            <div className="resume__name playfair">Nikka Alviar</div>
             <div className="resume__title lato">Software Engineer</div>
             <div className="resume__contact--info">
               <div>
                 <FaDownload />
                 <a className="resume__link" href="/resume.pdf" target="_blank">
-                  Download resume
+                  Download Resume
                 </a>
               </div>
               <div>
                 <MdEmail />
-                <a className="resume__link" href="mailto:example@example.com">
+                <a
+                  className="resume__link"
+                  href="mailto:nikka_alviar@outlook.com"
+                >
                   Email
                 </a>
               </div>
@@ -43,7 +46,7 @@ const Resume = () => {
                 <AiFillLinkedin />
                 <a
                   className="resume__link"
-                  href="https://linkedin.com/"
+                  href="https://www.linkedin.com/in/nikka-alviar"
                   target="_blank"
                 >
                   Linkedin
@@ -51,9 +54,13 @@ const Resume = () => {
               </div>
             </div>
             <div>
-              A highly motivated software engineer prepared to utilise
-              exceptional software, problem-solving and communication skills to
-              further my programming passion as a website developer.
+              Performance-driven Front-End Developer with hands-on experience
+              delivering high-impact work in the tech industry. Skilled in
+              designing and implementing applications and robust systems to
+              facilitate collaborative achievement of organizational goals.
+              Proven ability to thrive in a fast-paced setting, and leverage
+              skills in software development and technical program management to
+              enable team success.
             </div>
           </div>
         </div>
@@ -64,14 +71,13 @@ const Resume = () => {
             <div className="resume__education--wrapper">
               <div className="resume__education">
                 <div className="resume__job--name">
-                  University of Technology, Sydney
+                  York University, Toronto, Canada
                 </div>
                 <div>
-                  Bachelor of Engineering (Honours), Software Engineering Major
-                  Diploma in Professional Engineering Practice
+                  Honours Bachelor of Arts, Information Technology Major
                 </div>
               </div>
-              <div className="resume__job--date">2018 - 2021</div>
+              <div className="resume__job--date">2016 - 2021</div>
             </div>
           </div>
         </div>
@@ -127,7 +133,11 @@ const Resume = () => {
           </div>
         </div>
 
-        <div className="resume__grid resume__bottom" data-aos="fade-up" data-aos-delay="500">
+        <div
+          className="resume__grid resume__bottom"
+          data-aos="fade-up"
+          data-aos-delay="500"
+        >
           <div className="resume__title--description">References</div>
           <div>Available Upon request</div>
         </div>
