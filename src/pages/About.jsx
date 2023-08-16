@@ -98,18 +98,23 @@ function About() {
     <div className="container" id="about">
       <div className="about__wrapper" data-aos="fade-down" data-aos-delay="50">
         <div className="about__left playfair">
-          I'm a highly motivated software engineer with a strong passion for
+          I'm a performance-driven Software Engineer with a strong passion for
           website development.
         </div>
         <div className="about__right lato">
-          Currently employed as a software engineer at Canva, I work on
-          extremely difficult engineering problems every day in a team
-          consisting of some of the most talented and experienced software
-          engineers.
+          As a Junior Frontend Developer at Scalling, I excel where design and
+          functionality converge. My role blends design concepts with functional
+          frontend code, crafting pixel-perfect interfaces and ensuring seamless
+          responsiveness. Collaborating with designers and experienced
+          developers, I create user-centric web experiences. Mastering HTML,
+          CSS, and JavaScript where I enhance user experiences. At Scalling, my
+          dedication is in building bridges between aesthetics and technology
+          for dynamic digital interfaces.
           <br />
           <br />
-          Continuously working towards improving my knowledge and skills to
-          develop technologies that contribute to the betterment of society.
+          Persistently striving to enhance my expertise and capabilities, I am
+          dedicated to refining my knowledge and skills with the goal of
+          surpassing my self yesterday.
         </div>
       </div>
       <img id="clouds" src={Clouds} />

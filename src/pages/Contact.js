@@ -49,7 +49,7 @@ function Contact({ setRotateSpeed }) {
           setIsSending(false);
           setHeaderText({ text: "Something went wrong", modifier: "-error" });
           alert(
-            "My email service is temporarily unavailable. I’d still love to hear from you, so please email me directly at email@email.com"
+            "My email service is temporarily unavailable. I’d still love to hear from you, so please email me directly at nikka_alviar@outlook.com"
           );
         }
       )
@@ -59,7 +59,7 @@ function Contact({ setRotateSpeed }) {
         setIsSending(false);
         setHeaderText({ text: "Something went wrong", modifier: "-error" });
         alert(
-          "My email service is temporarily unavailable. I’d still love to hear from you, so please email me directly at email@email.com"
+          "My email service is temporarily unavailable. I’d still love to hear from you, so please email me directly at nikka_alviar@outlook.com"
         );
       });
   };

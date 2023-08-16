@@ -22,10 +22,10 @@ const Footer = () => {
           <a href="mailto:nikka_alviar@outlook.com">Email</a>
         </div>
         <div>
-          <a href="/Resume.pdf">Resume</a>
+          <a href="/resume.pdf">Resume</a>
         </div>
       </div>
-      <div>Copyright &copy; 2022 David Bragg</div>
+      <div>Copyright &copy; 2023 Nikka Alviar</div>
     </div>
   );
 };
