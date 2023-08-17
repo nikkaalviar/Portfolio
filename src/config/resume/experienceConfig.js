@@ -13,11 +13,21 @@ export const experienceConfig = [
     name: "Frontend Simplified",
     title: "Frontend Developer Intern",
     description: [
-      "Developed the Loopit main software and customer facing widget using Vue and Vuex state management",
-      "Worked with UX designers and backend engineers in order to maintain and upgrade a high quality software that is used by car dealerships and consumers internationally",
-      "Transformed UI/UX wireframes into responsive HTML and CSS (Sass/BEM)",
-      "Ran end-to-end tests using Cypress unit tests and regression testing",
+      "Transformed a completely static HTML, CSS, JavaScript and React single page application into an interactive user interface using animations, transitions, and carousels",
+      "Processed API requests with Axios to dynamically represent data from a cloud server and represented it through skeleton loading states, pagination, and dynamic routing",
+      "Utilized Git version control and the GitHub interface to work and thrive in a virtual and collaborative team environment",
     ],
-    date: "Jul 2020 - Dec 2020",
+    date: "Aug 2022 - Nov 2022",
+  },
+  {
+    name: "Revature",
+    title: "Full Stack Developer Intern",
+    description: [
+      "Collaborated with cross-functional teams to manage 3 agile projects from start to finish",
+      "Developed a user-friendly Expense Reimbursement e-commerce website and web application using Java, Angular, JavaScript, and PostgreSQL, resulting in a 15% increase in user engagement",
+      "Ensured high-quality code by conducting comprehensive unit testing with JUnit and Mockito, achieving a minimum passing rate of 70%",
+      "Partnered with a team of 3 developers to deliver high-quality web applications on tight deadlines, adhering to Agile Methodology with bi-weekly sprints, resulting in a 100% success rate in project delivery"
+    ],
+    date: "May 2022 - July 2022",
   },
 ];

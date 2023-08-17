@@ -52,7 +52,8 @@ const projectsConfig = [
   {
     title: "React E-Library",
     type: "Web App",
-    description: "Library serves as a comprehensive online library, allowing users to effortlessly browse a collection of books, explore featured and discounted titles, and make informed purchasing decisions. With an intuitive interface, users can access detailed book information, including pricing, and conveniently add their desired books to the cart. The platform provides a transparent view of the total cost, including taxes, enabling users to effectively manage their purchases. Library is a valuable tool for book enthusiasts, offering a seamless and engaging experience in discovering and acquiring their favourite literary treasures.",
+    description:
+      "Library serves as a comprehensive online library, allowing users to effortlessly browse a collection of books, explore featured and discounted titles, and make informed purchasing decisions. With an intuitive interface, users can access detailed book information, including pricing, and conveniently add their desired books to the cart. The platform provides a transparent view of the total cost, including taxes, enabling users to effectively manage their purchases. Library is a valuable tool for book enthusiasts, offering a seamless and engaging experience in discovering and acquiring their favourite literary treasures.",
     liveLink: "https://library-nu-nine.vercel.app",
     githubLink: "https://github.com/fnalviar/library-react",
     coverImage: EcommerceCover,
@@ -60,32 +61,6 @@ const projectsConfig = [
     firstImage: EcommerceFirstImage,
     secondImage: EcommerceSecondImage,
     thirdImage: EcommerceThirdImage,
-  },
-  {
-    title: "Cinematica Ecommerce",
-    type: "Web App",
-    description:
-      "Cinematica Movie Search is a user-friendly platform that allows movie enthusiasts to easily search, discover, and explore films from a vast collection.",
-    liveLink: "https://cinematica.vercel.app/",
-    githubLink: "https://github.com/fnalviar/Cinematica-React",
-    coverImage: CinematicaCoverImage,
-    topImage: CinematicaFrontImage,
-    firstImage: CinematicaFirstImage,
-    secondImage: CinematicaSecondImage,
-    thirdImage: CinematicaThirdImage,
-  },
-  {
-    title: "Cinematica Ecommerce",
-    type: "Web App",
-    description:
-      "Cinematica Movie Search is a user-friendly platform that allows movie enthusiasts to easily search, discover, and explore films from a vast collection.",
-    liveLink: "https://cinematica.vercel.app/",
-    githubLink: "https://github.com/fnalviar/Cinematica-React",
-    coverImage: CinematicaCoverImage,
-    topImage: CinematicaFrontImage,
-    firstImage: CinematicaFirstImage,
-    secondImage: CinematicaSecondImage,
-    thirdImage: CinematicaThirdImage,
   },
   {
     title: "Cinematica Ecommerce",
