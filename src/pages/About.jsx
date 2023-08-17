@@ -102,14 +102,14 @@ function About() {
           website development.
         </div>
         <div className="about__right lato">
-          As a Junior Frontend Developer at Scalling, I excel where design and
-          functionality converge. My role blends design concepts with functional
-          frontend code, crafting pixel-perfect interfaces and ensuring seamless
-          responsiveness. Collaborating with designers and experienced
-          developers, I create user-centric web experiences. Mastering HTML,
-          CSS, and JavaScript where I enhance user experiences. At Scalling, my
-          dedication is in building bridges between aesthetics and technology
-          for dynamic digital interfaces.
+          As a Junior Frontend Developer at Scalling, I act as a bridge between
+          design and functionality. My role blends design concepts with
+          functional frontend code, crafting pixel-perfect interfaces and
+          ensuring seamless responsiveness. Collaborating with designers and
+          experienced developers, I create user-centric web experiences.
+          Mastering HTML, CSS, and JavaScript where I enhance user experiences.
+          At Scalling, my dedication is in building bridges between aesthetics
+          and technology for dynamic digital interfaces.
           <br />
           <br />
           Persistently striving to enhance my expertise and capabilities, I am

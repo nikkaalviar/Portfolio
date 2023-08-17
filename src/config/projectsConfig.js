@@ -27,7 +27,7 @@ const projectsConfig = [
     title: "NFT Marketplace",
     type: "Web App",
     description:
-      "Ultraverse is a cutting-edge platform designed exclusively for NFT enthusiasts, offering an immersive experience in the world of non-fungible tokens. Discover the hottest NFT collections through our curated selection and stay informed with countdown timers for upcoming sales. Get detailed information on each NFT, including owner, creator, and pricing. Follow your favorite creators and explore their entire body of work.",
+      "Ultraverse is a cutting-edge platform designed exclusively for NFT enthusiasts, offering an immersive experience in the world of non-fungible tokens.",
     liveLink: "https://virtual-internship-chi.vercel.app/",
     githubLink: "https://github.com/fnalviar/nikka-internship",
     coverImage: NftCoverImage,
@@ -40,7 +40,7 @@ const projectsConfig = [
     title: "Netflix Clone",
     type: "Web App",
     description:
-      "Netflix Clone",
+      "Discover a world of limitless entertainment with Netflix. Immerse yourself in a diverse array of movies, TV shows, and original content that caters to every genre and interest. Experience the convenience of streaming on any device, whether it's your TV, laptop, tablet, or smartphone. With personalized recommendations and the freedom to watch as much as you want, whenever you want, Netflix redefines the way you enjoy entertainment. Join millions of subscribers worldwide who have made Netflix their go-to destination for captivating storytelling and unforgettable moments.",
     liveLink: "https://netflix-clone-ruby-omega.vercel.app/",
     githubLink: "https://github.com/fnalviar/Netflix-Clone",
     coverImage: NetflixCoverImage,
@@ -50,10 +50,9 @@ const projectsConfig = [
     thirdImage: NetflixThirdImage,
   },
   {
-    title: "React Ecommerce",
+    title: "React E-Library",
     type: "Web App",
-    description:
-      "React E-Library",
+    description: "Library serves as a comprehensive online library, allowing users to effortlessly browse a collection of books, explore featured and discounted titles, and make informed purchasing decisions. With an intuitive interface, users can access detailed book information, including pricing, and conveniently add their desired books to the cart. The platform provides a transparent view of the total cost, including taxes, enabling users to effectively manage their purchases. Library is a valuable tool for book enthusiasts, offering a seamless and engaging experience in discovering and acquiring their favourite literary treasures.",
     liveLink: "https://library-nu-nine.vercel.app",
     githubLink: "https://github.com/fnalviar/library-react",
     coverImage: EcommerceCover,
@@ -66,7 +65,33 @@ const projectsConfig = [
     title: "Cinematica Ecommerce",
     type: "Web App",
     description:
-      "Cinematica",
+      "Cinematica Movie Search is a user-friendly platform that allows movie enthusiasts to easily search, discover, and explore films from a vast collection.",
+    liveLink: "https://cinematica.vercel.app/",
+    githubLink: "https://github.com/fnalviar/Cinematica-React",
+    coverImage: CinematicaCoverImage,
+    topImage: CinematicaFrontImage,
+    firstImage: CinematicaFirstImage,
+    secondImage: CinematicaSecondImage,
+    thirdImage: CinematicaThirdImage,
+  },
+  {
+    title: "Cinematica Ecommerce",
+    type: "Web App",
+    description:
+      "Cinematica Movie Search is a user-friendly platform that allows movie enthusiasts to easily search, discover, and explore films from a vast collection.",
+    liveLink: "https://cinematica.vercel.app/",
+    githubLink: "https://github.com/fnalviar/Cinematica-React",
+    coverImage: CinematicaCoverImage,
+    topImage: CinematicaFrontImage,
+    firstImage: CinematicaFirstImage,
+    secondImage: CinematicaSecondImage,
+    thirdImage: CinematicaThirdImage,
+  },
+  {
+    title: "Cinematica Ecommerce",
+    type: "Web App",
+    description:
+      "Cinematica Movie Search is a user-friendly platform that allows movie enthusiasts to easily search, discover, and explore films from a vast collection.",
     liveLink: "https://cinematica.vercel.app/",
     githubLink: "https://github.com/fnalviar/Cinematica-React",
     coverImage: CinematicaCoverImage,
