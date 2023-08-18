@@ -54,13 +54,14 @@ const Resume = () => {
               </div>
             </div>
             <div>
-              Performance-driven Front-End Developer with hands-on experience
-              delivering high-impact work in the tech industry. Skilled in
-              designing and implementing applications and robust systems to
-              facilitate collaborative achievement of organizational goals.
-              Proven ability to thrive in a fast-paced setting, and leverage
-              skills in software development and technical program management to
-              enable team success.
+              Performance-driven Front-End Developer with a proven track record
+              of translating design concepts into seamless user experiences. I
+              possess a versatile skill set encompassing the development of
+              interactive web applications, robust systems, and innovative
+              solutions that align with organizational goals. My ability to
+              excel in fast-paced settings, coupled with my expertise in
+              software development and technical program management, makes me an
+              asset to any team.
             </div>
           </div>
         </div>
