@@ -1,5 +1,5 @@
 import React from "react";
-import FooterLogo from "../assets/footer-logo.svg";
+import FooterLogo from "../assets/footer-logo.png";
 import { MdOutlineArrowUpward } from "react-icons/md";
 
 const Footer = () => {
