@@ -13,16 +13,18 @@ const Footer = () => {
       </a>
       <div className="footer__link--wrapper">
         <div>
-          <a href="https://github.com/fnalviar">Github</a>
+          <a target="_blank" href="https://github.com/fnalviar">
+            Github
+          </a>
         </div>
         <div>
-          <a href="https://www.linkedin.com/in/nikka-alviar">LinkedIn</a>
+          <a target="_blank" href="https://www.linkedin.com/in/nikka-alviar">LinkedIn</a>
         </div>
         <div>
-          <a href="mailto:nikka_alviar@outlook.com">Email</a>
+          <a target="_blank" href="mailto:nikka_alviar@outlook.com">Email</a>
         </div>
         <div>
-          <a href="/resume.pdf">Resume</a>
+          <a target="_blank" href="/resume.pdf">Resume</a>
         </div>
       </div>
       <div>Copyright &copy; 2023 Nikka Alviar</div>
