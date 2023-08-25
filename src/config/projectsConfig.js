@@ -62,19 +62,19 @@ const projectsConfig = [
     secondImage: EcommerceSecondImage,
     thirdImage: EcommerceThirdImage,
   },
-  {
-    title: "Cinematica Ecommerce",
-    type: "Web App",
-    description:
-      "Cinematica Movie Search is a user-friendly platform that allows movie enthusiasts to easily search, discover, and explore films from a vast collection.",
-    liveLink: "https://cinematica.vercel.app/",
-    githubLink: "https://github.com/fnalviar/Cinematica-React",
-    coverImage: CinematicaCoverImage,
-    topImage: CinematicaFrontImage,
-    firstImage: CinematicaFirstImage,
-    secondImage: CinematicaSecondImage,
-    thirdImage: CinematicaThirdImage,
-  },
+  // {
+  //   title: "Cinematica Ecommerce",
+  //   type: "Web App",
+  //   description:
+  //     "Cinematica Movie Search is a user-friendly platform that allows movie enthusiasts to easily search, discover, and explore films from a vast collection.",
+  //   liveLink: "https://cinematica.vercel.app/",
+  //   githubLink: "https://github.com/fnalviar/Cinematica-React",
+  //   coverImage: CinematicaCoverImage,
+  //   topImage: CinematicaFrontImage,
+  //   firstImage: CinematicaFirstImage,
+  //   secondImage: CinematicaSecondImage,
+  //   thirdImage: CinematicaThirdImage,
+  // },
 ];
 
 export default projectsConfig;
