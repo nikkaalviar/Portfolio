@@ -1,11 +1,12 @@
 export const experienceConfig = [
   {
-    name: "Scalling",
+    name: "Scaling",
     title: "Junior Frontend Developer",
     description: [
-      "Translated homepage design from Photoshop to HTML and CSS while maintaining the UX and UI design",
-      "Built and tested the application functionality to ensure a consistent user experience across all platforms",
-      "Optimized page elements to reduce loading time and debugged code to ensure cross-browser usability",
+      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity",
+      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring",
+      "Engineered a robust backend API using Node.js and Express, ensuring scalability, flexibility, and seamless frontend interaction",
+      "Designed and integrated charts to efficiently represent statistical data, aiding in better user comprehension and decision-making"
     ],
     date: "Dec 2022 - Current",
   },

@@ -1,5 +1,5 @@
 import React from "react";
-import Me from "../assets/me.JPG";
+import Me from "../assets/me.jpeg";
 import { FaDownload } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import { AiFillLinkedin } from "react-icons/ai";
@@ -78,7 +78,7 @@ const Resume = () => {
                   Honours Bachelor of Arts, Information Technology Major
                 </div>
               </div>
-              <div className="resume__job--date">2016 - 2021</div>
+              <div className="resume__job--date"></div>
             </div>
           </div>
         </div>
