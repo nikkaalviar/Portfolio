@@ -1,11 +1,11 @@
-import gitHubIcon from "../assets/icons/GHicon.svg";
-import linkedinIcon from "../assets/icons/LNicon.svg";
-import resumeIcon from "../assets/icons/RESUMEicon.svg";
-import { AnimatedHeader } from "../components/AnimateHeader";
 import { OrbitControls, Text } from "@react-three/drei";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as THREE from "three";
+import gitHubIcon from "../assets/icons/GHicon.svg";
+import linkedinIcon from "../assets/icons/LNicon.svg";
+import resumeIcon from "../assets/icons/RESUMEicon.svg";
+import { AnimatedHeader } from "../components/AnimateHeader";
 
 const about = [
   "HTML",

@@ -1,6 +1,4 @@
 import { useEffect, useState } from "react";
-import Carousel from "react-material-ui-carousel";
-import ScrollIcon from "../assets/icons/SCROLLicon.svg";
 import { AnimatedHeader } from "../components/AnimateHeader";
 import Modal from "../components/Modal";
 import Project from "../components/Project";

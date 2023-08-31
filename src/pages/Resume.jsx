@@ -1,12 +1,12 @@
 import React from "react";
-import Me from "../assets/me.jpeg";
+import { AiFillLinkedin } from "react-icons/ai";
 import { FaDownload } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-import { AiFillLinkedin } from "react-icons/ai";
+import Me from "../assets/me.jpeg";
+import { AnimatedHeader } from "../components/AnimateHeader";
 import { experienceConfig } from "../config/resume/experienceConfig";
 import { technicalSkillsConfig } from "../config/resume/technicalSkillsConfig";
 import { transferrableSkillsConfig } from "../config/resume/transferrableSkillsConfig";
-import { AnimatedHeader } from "../components/AnimateHeader";
 
 const Resume = () => {
   return (

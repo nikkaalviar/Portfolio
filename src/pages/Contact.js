@@ -1,5 +1,4 @@
-import { init } from "@emailjs/browser";
-import emailjs from "@emailjs/browser";
+import emailjs, { init } from "@emailjs/browser";
 import { OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import { useEffect, useRef, useState } from "react";

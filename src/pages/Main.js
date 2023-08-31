@@ -5,16 +5,16 @@ import { useEffect, useState } from "react";
 
 import CanvasBg from "../components/CanvasBg";
 import CustomCursor from "../components/CustomCursor";
+import Loader from "../components/Loader";
 import SideNav from "../components/SideNav";
 import StickyIcons from "../components/StickyIcons";
 import About from "./About";
 import Contact from "./Contact";
+import Footer from "./Footer";
 import Landing from "./Landing";
 import Projects from "./Projects";
-import Skills from "./Skills";
 import Resume from "./Resume";
-import Footer from "./Footer";
-import Loader from "../components/Loader";
+import Skills from "./Skills";
 
 function Main() {
   const [rotateSpeed, setRotateSpeed] = useState(0.5);

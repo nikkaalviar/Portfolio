@@ -1,10 +1,8 @@
-import { OrbitControls, Text } from "@react-three/drei";
-import { Canvas, useFrame } from "@react-three/fiber";
+import { Text } from "@react-three/drei";
+import { useFrame } from "@react-three/fiber";
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as THREE from "three";
 import Clouds from "../assets/clouds.png";
-
-import { AnimatedHeader } from "../components/AnimateHeader";
 
 const about = [
   "HTML",
